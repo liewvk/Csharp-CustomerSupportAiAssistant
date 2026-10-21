@@ -1,0 +1,11 @@
+﻿Printer Wi-Fi Troubleshooting
+
+If a printer cannot connect to Wi-Fi:
+
+1. Confirm the printer and router are powered on.
+2. Check that the Wi-Fi network is available.
+3. Restart the printer and router.
+4. Verify that the correct Wi-Fi password is entered.
+5. Check the printer manufacturer's network setup guide.
+
+If the problem continues, contact technical support.
